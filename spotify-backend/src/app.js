@@ -7,7 +7,7 @@ const musicRoutes = require('./routes/music.routes');
 const app = express();
 
 app.use(cors({
-    origin: "https://spotify-clone-harsh-535c.vercel.app/",
+    origin: "https://spotify-clone-eight-taupe.vercel.app/",
     credentials: true
 }));
 
