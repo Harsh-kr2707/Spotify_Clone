@@ -37,6 +37,16 @@ A Spotify-inspired music streaming web application built with the **MERN stack**
 - Multer
 - ImageKit
 
+## 📸 Project Screenshot
+
+![Spotify Screenshot 1](./screenshots/spotify1.png)
+
+![Spotify Screenshot 2](./screenshots/spotify2.png)
+
+![Spotify Screenshot 3](./screenshots/spotify3.png)
+
+![Spotify Screenshot 4](./screenshots/spotify4.png)
+
 ## 📁 Project Structure
 
 ```text
